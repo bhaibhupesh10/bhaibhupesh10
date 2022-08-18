@@ -29,13 +29,13 @@
 
 ### Let's Connect!!
 
-<a href="https://www.linkedin.com/in/bhaibhupesh10/">
+<a href="https://www.linkedin.com/in/bhupesh-choudhary-410a6a1aa/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
 </a>
-<a href="https://www.facebook.com/gar.khurana/">
+<a href="https://www.facebook.com/rupesh.pawar.3954546/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/facebook-new.png" />
 </a>
-<a href="https://twitter.com/khuranagarvit19">
+<a href="https://twitter.com/@bhaibhupesh10">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/000000/twitter--v1.png" />
 </a>
 <a href = "mailto: bhaibhupesh10@gmail.com">
