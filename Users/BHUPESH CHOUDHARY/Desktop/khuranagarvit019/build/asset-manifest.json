@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/khuranagarvit019/static/css/main.bab0b925.chunk.css",
+    "main.js": "/khuranagarvit019/static/js/main.f8a85377.chunk.js",
+    "main.js.map": "/khuranagarvit019/static/js/main.f8a85377.chunk.js.map",
+    "runtime-main.js": "/khuranagarvit019/static/js/runtime-main.5748ebd9.js",
+    "runtime-main.js.map": "/khuranagarvit019/static/js/runtime-main.5748ebd9.js.map",
+    "static/js/2.5468a258.chunk.js": "/khuranagarvit019/static/js/2.5468a258.chunk.js",
+    "static/js/2.5468a258.chunk.js.map": "/khuranagarvit019/static/js/2.5468a258.chunk.js.map",
+    "index.html": "/khuranagarvit019/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/khuranagarvit019/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.5468a258.chunk.js.LICENSE.txt": "/khuranagarvit019/static/js/2.5468a258.chunk.js.LICENSE.txt",
+    "static/media/resume.5dbef5b3.pdf": "/khuranagarvit019/static/media/resume.5dbef5b3.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5748ebd9.js",
+    "static/js/2.5468a258.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.f8a85377.chunk.js"
+  ]
+}
