@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-![Garvit's Github Stats](https://github-readme-stats.vercel.app/api?username=khuranagarvit019&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuranagarvit019&show_icons=true&hide=css,JavaScript&theme=dracula)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khuranagarvit019&theme=dracula)](https://git.io/streak-stats)
+![Garvit's Github Stats](https://github-readme-stats.vercel.app/api?username=bhaibhupesh10&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaibhupesh10&show_icons=true&hide=css,JavaScript&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhaibhupesh10&theme=dracula)](https://git.io/streak-stats)
 
 
 
@@ -29,7 +29,7 @@
 
 ### Let's Connect!!
 
-<a href="https://www.linkedin.com/in/khuranagarvit019/">
+<a href="https://www.linkedin.com/in/bhaibhupesh10/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/gar.khurana/">
@@ -38,13 +38,13 @@
 <a href="https://twitter.com/khuranagarvit19">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/000000/twitter--v1.png" />
 </a>
-<a href = "mailto: khuranagarvit019@gmail.com">
+<a href = "mailto: bhaibhupesh10@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
 
 
 <!--
-**khuranagarvit019/khuranagarvit019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bhaibhupesh10/bhaibhupesh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 
 
 
-![](https://komarev.com/ghpvc/?username=khuranagarvit019&show_icons=true&bg_color=44bcd8&title_color=091441&text_color=ffffff&icon_color=091441)
+![](https://komarev.com/ghpvc/?username=bhaibhupesh10&show_icons=true&bg_color=44bcd8&title_color=091441&text_color=ffffff&icon_color=091441)
