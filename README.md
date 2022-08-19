@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-![Garvit's Github Stats](https://github-readme-stats.vercel.app/api?username=bhaibhupesh10&show_icons=true&theme=dracula)
+![Bhupesh's Github Stats](https://github-readme-stats.vercel.app/api?username=bhaibhupesh10&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaibhupesh10&show_icons=true&hide=css,JavaScript&theme=dracula)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhaibhupesh10&theme=dracula)](https://git.io/streak-stats)
 
@@ -12,19 +12,6 @@
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/java.png" title="Java"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/django.png" title="Django"/></code>
-<code><img width="80px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" title="FastAPI"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/2x/android-os.png" title="Android Development"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/firebase.png" title="Firebase"/></code>
-<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
-<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/2x/console.png" title="Terminal"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/linux.png" title="Linux"/></code>
-<code><img width="40px" src="https://img.icons8.com/windows/8x/323573/fedora.png" title="Fedora"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/arduino.png" title="Arduino"/></code>
 
 
 ### Let's Connect!!
