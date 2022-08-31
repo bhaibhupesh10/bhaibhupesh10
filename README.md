@@ -1,82 +1,30 @@
-<!-- ### Hi there 👋 -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Bhupesh Choudhary</h1>
+<h5 align="center">
+I am a 1st-year student pursuing Master degree in Computer Application(MCA) studies with a specialization of JAVA, from SAGE University INDORE. I am a Data Science enthusiast, App developer, and a Programmer. 
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaibhupesh10&label=Profile%20views&color=0e75b6&style=flat" alt="bhaibhupesh10" /> </p>
+<p>
+<a align= "center" href="https://github.com/bhaibhupesh10">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaibhupesh10&theme=radical">
 
-![Garvit's Github Stats](https://github-readme-stats.vercel.app/api?username=khuranagarvit019&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khuranagarvit019&show_icons=true&hide=css,JavaScript&theme=dracula)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khuranagarvit019&theme=dracula)](https://git.io/streak-stats)
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=bhaibhupesh10&count_private=true&theme=radical&show_icons=true" />
 
+<p align="left"> <a href="https://twitter.com/bhaibhupesh10" target="blank"><img src="https://img.shields.io/twitter/follow/bhaibhupesh10?logo=twitter&style=for-the-badge" alt="bhaibhupesh10" /></a> </p>
 
+- 📫 How to reach me **bhaibhupesh10@gmail.com**
+<br><br>
+<hr>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/bhaibhupesh10" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="bhaibhupesh10" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://https://www.linkedin.com/in/bhupesh-choudhary-410a6a1aa/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Bhupesh Choudhary" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/bhupesh_pawar" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="bhupesh_pawar" height="50" width="50" /></a>
+</p>
 
-### I am good at:
-<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/java.png" title="Java"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/django.png" title="Django"/></code>
-<code><img width="80px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" title="FastAPI"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/2x/android-os.png" title="Android Development"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/firebase.png" title="Firebase"/></code>
-<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
-<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin"/></code>
-<code><img width="40px" src="https://img.icons8.com/fluent/2x/console.png" title="Terminal"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/linux.png" title="Linux"/></code>
-<code><img width="40px" src="https://img.icons8.com/windows/8x/323573/fedora.png" title="Fedora"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/arduino.png" title="Arduino"/></code>
+<hr>
 
-
-### Let's Connect!!
-
-<a href="https://www.linkedin.com/in/khuranagarvit019/">
-  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
-</a>
-<a href="https://www.facebook.com/gar.khurana/">
-  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/facebook-new.png" />
-</a>
-<a href="https://twitter.com/khuranagarvit19">
-  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/000000/twitter--v1.png" />
-</a>
-<a href = "mailto: khuranagarvit019@gmail.com">
-  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
-</a>
-
-
-<!--
-**khuranagarvit019/khuranagarvit019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=khuranagarvit019&show_icons=true&bg_color=44bcd8&title_color=091441&text_color=ffffff&icon_color=091441)
