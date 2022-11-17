@@ -22,7 +22,7 @@ I am a 1st-year student pursuing Master degree in Computer Application(MCA) stud
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/bhaibhupesh10" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="bhaibhupesh10" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://https://www.linkedin.com/in/bhupesh-choudhary-410a6a1aa/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Bhupesh Choudhary" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bhupeshchoudhary/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Bhupesh Choudhary" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/bhupesh_pawar" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="bhupesh_pawar" height="50" width="50" /></a>
 </p>
 
