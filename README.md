@@ -29,7 +29,7 @@ I am a 1st-year student pursuing Master degree in Computer Application(MCA) stud
 <hr>
 
 <p align="center">
-  <img src="https://github.com/bhaibhupesh10/bhaibhupesh10/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/bhaibhupesh10/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
