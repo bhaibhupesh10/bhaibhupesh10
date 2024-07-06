@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Bhupesh Choudhary</h1>
 <h5 align="center">
-I am a 1st-year student pursuing Master degree in Computer Application(MCA) studies with a specialization of JAVA, from SAGE University INDORE. I am a Data Science enthusiast, App developer, and a Programmer. 
+I am a 1st-year student pursuing Master degree in Computer Application(MCA) studies with a specialization of JAVA, from SAGE University INDORE. I am a Cloud & Devops enthusiast, App developer, and a Programmer. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaibhupesh10&label=Profile%20views&color=0e75b6&style=flat" alt="bhaibhupesh10" /> </p>
 <p>
